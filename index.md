@@ -2,7 +2,8 @@
 
 # Mengenal Teknologi Li-Fi
 ![Image](shutterstock_347919113.jpg)
-Apa itu Li-Fi?
+
+## Apa itu Li-Fi?
 
 Li-Fi memanfaatkan lampu LED untuk mentransfer data pada spektrum cahaya tampak. Sementara Wi-Fi atau Wireless Fidelity, menggunakan gelombang elektromagnetik pada frekuensi radio untuk mengirimkan data melalui router Wi-Fi. Perbedaan antara keduanya beragam, yang paling jelas adalah Wi-Fi menggunakan gelombang radio, sedangkan Li-Fi memanfaatkan cahaya.
 
